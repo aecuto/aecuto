@@ -1,0 +1,11 @@
+[SERVICE]
+TYPE=TH
+RES=_TH_
+
+[TH]
+AUTHENTIC_DOMAIN=103.97.50.129
+AUTHENTIC_PORT=8888
+PATCH_URL= http://dn.th.playblackdesert.com/UploadData/
+
+viewTradeMarketUrl=https://trade.th.playblackdesert.com/
+gameTradeMarketUrl=https://game-trade.th.playblackdesert.com/
