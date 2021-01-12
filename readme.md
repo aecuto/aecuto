@@ -1,15 +1,16 @@
 # Documents
 
-My documents about the best way to solve it.
+My favorit tools.
 
-## Mac Bash (easy setup)
+## Mac Bash
 
 - items2
 - zsh & oh my zsh
-- powerline9k theme
+- powerline10k theme zsh
+- Solarized Dark theme iterm
 
-## Window Bash [setup?](how-to-setup/window-bash.md)
+## Window Bash 
 - Install Windows Subsystem for Linux
 - Install Window terminal
-- zsh
-- powerline10k theme
+- zsh & oh my zsh 
+- powerline10k theme zsh
