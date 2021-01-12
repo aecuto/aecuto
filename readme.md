@@ -14,3 +14,4 @@ My favorit tools.
 - Install Window terminal
 - zsh & oh my zsh 
 - powerline10k theme zsh
+- Solarized Dark - Patched theme window terminal
