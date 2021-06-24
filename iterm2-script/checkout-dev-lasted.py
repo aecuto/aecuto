@@ -5,6 +5,7 @@ import iterm2
 # with pip.
 
 async def async_start(session, service_name):
+    await session.async_set_name(service_name)
     await session.async_send_text('cd ~/Documents/fanz/' + service_name + '\n')
     await session.async_send_text('git checkout develop\n')
     await session.async_send_text('git pull\n')
