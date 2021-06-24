@@ -21,8 +21,7 @@ async def main(connection):
   
         for repo in repo_list:
             session = await current_session.async_split_pane(vertical=True)
-            service_name = repo
-            await async_start(session,service_name)
+            await async_start(session,repo)
 
         await current_session.async_close(True)
     else:
