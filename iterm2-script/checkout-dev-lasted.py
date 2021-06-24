@@ -6,7 +6,7 @@ import iterm2
 
 async def async_start(session, service_name):
     await session.async_set_name(service_name)
-    await session.async_send_text('cd ~/Documents/fanz/' + service_name + '\n')
+    await session.async_send_text('cd ~/Documents/' + service_name + '\n')
     await session.async_send_text('git checkout develop\n')
     await session.async_send_text('git pull\n')
 
@@ -18,7 +18,7 @@ async def main(connection):
         tab = window.current_tab
         current_session = tab.current_session
 
-        repo_list = ['fanz-frontend', 'fanz-payment-frontend', 'fanz-pos-frontend', 'fanz-management-service', 'fanz-payment-service', 'fanz-pos']
+        repo_list = ['frontend1', 'frontend2', 'frontend3', 'service1', 'service2', 'service3']
   
         for repo in repo_list:
             session = await current_session.async_split_pane(vertical=True)
