@@ -2,19 +2,21 @@
 
 My favorit tools.
 
-## Mac Bash
+## Mac items2
 
-- items2
 - zsh & oh my zsh
 - powerline10k theme zsh
 - Solarized Dark theme iterm
 
-## Window Bash 
-- Install Windows Subsystem for Linux
-- Install Window terminal
-- zsh & oh my zsh 
-- powerline10k theme zsh
-- Solarized Dark - Patched theme window terminal
+## Window terminal 
+- Turn on Windows Subsystem for Linux
+- Install wsl [click](https://learn.microsoft.com/en-us/windows/wsl/install)
+- install zsh `sudo apt-get install zsh -y`
+- install oh my zsh [click](https://ohmyz.sh/#install)
+- install font for powerline10k [click](https://github.com/romkatv/powerlevel10k#meslo-nerd-font-patched-for-powerlevel10k)
+- install powerline10k [click](https://github.com/romkatv/powerlevel10k#oh-my-zsh)
+- click new tab and config powerline10k
+- set start dir: `\\wsl$\Ubuntu-20.04\home\aecuto`
 
 ## zsh plugin
 ```sh
