@@ -13,7 +13,7 @@ I'm Full-stack developer
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=aecuto&theme=dark&hide_border=true)](https://github.com/aecuto)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aecuto&theme=dark&hide_border=true&langs_count=10&layout=compact)](https://github.com/aecuto)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aecuto&theme=dark&hide_border=true&langs_count=10&layout=compact&exclude_repo=find-jobs-apps)](https://github.com/aecuto)
 
 
 
