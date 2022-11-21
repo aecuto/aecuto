@@ -9,10 +9,10 @@ I'm Full-stack developer
 
 
 ## 📊 &nbsp;Stats
-
+<!-- 
 [![aecuto's GitHub stats](https://github-readme-stats.vercel.app/api?username=aecuto&show_icons=true&theme=dark&hide_border=true)](https://github.com/aecuto)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=aecuto&theme=dark&hide_border=true)](https://github.com/aecuto)
+[![GitHub Streak](https://streak-stats.demolab.com?user=aecuto&theme=dark&hide_border=true)](https://github.com/aecuto) -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aecuto&theme=dark&hide_border=true&langs_count=10&layout=compact&exclude_repo=find-jobs-apps)](https://github.com/aecuto)
 
