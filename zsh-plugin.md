@@ -5,5 +5,5 @@
 
 ```sh
 # vi ~/.zshrc
-plugins=( [plugins...] zsh-autosuggestions zsh-syntax-highlighting)
+plugins=(git zsh-autosuggestions zsh-syntax-highlighting)
 ```
