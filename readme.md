@@ -26,4 +26,5 @@ I'm Full-stack developer
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aecuto&theme=dark&hide_border=true&langs_count=10&layout=compact&exclude_repo=find-jobs-apps&hide=css,html,scss)](https://github.com/aecuto)
 
 
-
+## badges
+[![An image of @aecuto's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aecuto)](https://holopin.io/@aecuto)
