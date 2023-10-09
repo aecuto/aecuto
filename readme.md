@@ -13,7 +13,7 @@ I'm Full-stack developer
 
 - [Terminal Mac](./terminal-mac.md)
 - [Terminal WSL](./terminal-wsl.md)
-- [ZSH plugin](./zsh-plugin,md)
+- [ZSH plugin](./zsh-plugin.md)
 - [Node Setup](./node-setup.md)
 - [Other](./other.md)
 
