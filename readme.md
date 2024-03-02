@@ -19,7 +19,7 @@ I'm a Full-stack developer
 
 ## 📊 &nbsp;Stats
 
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/aecuto/langs)](https://aecuto.github.io/resume/)
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/aecuto/langs?time_range=one_year&theme=dark)](https://aecuto.github.io/resume/)
 
 
 ## badges
