@@ -17,10 +17,5 @@ I'm a Full-stack developer
 - [Node Setup](./node-setup.md)
 - [Other](./other.md)
 
-## 📊 &nbsp;Stats
-
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/aecuto/langs?time_range=one_year&theme=dark)](https://aecuto.github.io/resume/)
-
-
 ## badges
 [![An image of @aecuto's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aecuto)](https://holopin.io/@aecuto)
